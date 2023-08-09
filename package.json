@@ -1,6 +1,6 @@
 {
   "name": "throttle-react-hook",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Hook for throttle",
   "main": "index.js",
   "scripts": {
